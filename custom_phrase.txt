@@ -24,7 +24,8 @@
 # 此行之后不能写注释
 
 噷	hm
-
+呣	m
+呒	m
 
 有	u	3
 又	u	2
@@ -61,3 +62,157 @@ gone	gone
 Go程	gocheng
 code	code
 SOHO	soho
+
+Quicker	qui	2
+B站	bzhan	1
+这个	zhge	1
+iCloud	ic	2
+macOS	mac	4
+MacBook	mac	3
+MacBook Pro	mac	2
+MacBook Air	mac	1
+MacBook	macbook	3
+MacBook Pro	macbook	2
+MacBook Air	macbook	1
+uTools	uto	1
+PureRef	pur	1
+Notion	not	3
+Obsidian	obs	1
+ChatGPT	chat	1
+Tana	tana	1
+Rime	rime	1
+Markdown	mar	1
+Blender	ble	1
+Vscode	vs	1
+Ctrl	ctr	1
+浙江省慈溪市经济开发区方淞路518号	dz	1
+Emoji	emo	1
+宁波帅风电器制造有限公司	gs	1
+lenband	len	1
+Logseq	log	1
+Milanote	mil	1
+Plasticity	pla	1
+Surfsun	sur	2
+SurfsunWater	sur	1
+YLR5-6	yl	1
+uTools	utl	1
+400-112-1999	dh	1
+陈雷迪	cld	1
+戎巧红	rqh	1
+陈欣然	cxr	1
+陈欣怡	cxy	1
+Telegram	tel	1
+Flomo	flo	2
+Cubox	cub	1
+Remember cursor position	reme	1
+Auto Link Titl	auto	1
+Easy-Typing	eas	1
+Image Auto Upload Plugin	img	1
+Calendar	cal	1
+Kanban	kanb	1
+Weread	wer	1
+Custom Frames	cus	1
+Workspaces Plus	work	1
+Word Splitting for Simplified Chinese in Edit Mode and Vim Mode	word	1
+OmniSearch	sear	1
+Recent files	rec	1
+Advanced Slides	adv	1
+dataview	dat	1
+Templater	tem	1
+Regex Pipeline	reg	1
+Reveal. js	rev	1
+Notion Ai	not	2
+custom_phrase	txt	1
+Figma	fig	1
+Midjourney	mid	1
+Microsoft Azure	mic	1
+Microsoft Designer	mic	2
+Microsoft	mic	3
+Linkedin	lin	1
+QuickAdd	qui	1
+Excalidraw	exc	1
+Win11	win	1
+Win10	win	2
+v2rayN	vra	1
+Clash	cla	1
+Snipaste	sni	1
+Playground	pla	2
+keyshot	key	1
+Administrator	adm	1
+NVIDIA	nvi	1
+wallhaven	wal	1
+Behance	beh	1
+Illustrator	ai	1
+Photoshop	ps	1
+Premiere	pr	1
+After Effects	ae	1
+Language Reactor	lan	1
+Chrome	chr	1
+Z-Library	lib	1
+一下啊	yixa	1
+weekly	wee	1
+vercel	ver	1
+FlowUs	flo	1
+GitHub	git	2
+Leonardo Ai	leo	1
+Shopify	sho	1
+New Bing	new	1
+Notepads	not	1
+Typora	typ	1
+Python	py	1
+Spotify	spo	1
+PDF	pdf	1
+Mavis	mav	1
+Twitter	twi	1
+leidison9527@gmail.com	gma	1
+leidison@163.com	leidison	1
+Slack	sla	1
+Claude	cla	2
+TTime	tt	1
+xLog	xl	1
+cloudflare	clo	1
+namesilo	nam	1
+https://database.surfsunwater.com	data	1
+Fences	fen	1
+stable diffusion	sd	1
+Jennie	jen	1
+Aria2	ari	1
+SketchUp	ske	1
+Reddy	red	1
+LORA	lor	1
+Fooocus	foo	1
+Callout	cal	2
+DALL·E 3	dal	1
+Omnivore	om	1
+syncthing	syn	1
+Resilio Sync	res	1
+Pile	pi	1
+SURFSUN HOME APPLIANCES(NINGBO)MANUFACTURING CO.,LTD.	ygs	1
+Fangsong Road No.518,East-Cixi Industrial Zone,Cixi,Zhejiang,China	ydz	1
+Pixpin	pix	1
+Lattics	lat	1
+WonderPen	pen	1
+Issues	is	1
+Rufus	ru	1
+Dawn Launcher	daw	1
+Gitblog	git	1
+NIVICO	niv	2
+nivicowater.com	niv	1
+Copilot	cop	1
+Capacities	cap	1
+Fleeting Notes	fle	1
+Anytype	any	1
+DeepSeek	dee	1
+ChatBot	cha	1
+Readwise	rea	1
+Solidworks	sol	1
+Pinterest	pin	1
+Ollama	oll	1
+Perplexity	per	1
+ComfyUI	comf	1
+Thino	thi	1
+Cursor	cur	1
+Substack	sub	1
+Tinymind	tin	1
+Instagram	ig	1
+Trello	tre	1

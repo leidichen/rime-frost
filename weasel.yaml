@@ -48,12 +48,12 @@ style:
   # 全局字体
   # 格式：字体1:起始码位:结束码位:字重:字形,字体2……，字体会依次 fallback
   # 详细设定请参考 <https://github.com/rime/weasel/wiki/字體設定>
-  font_face: "Segoe UI Emoji, Microsoft YaHei, SF Pro, Noto Color Emoji"
+  font_face: "霞鹜文楷 GB 屏幕阅读版, Segoe UI Emoji, Microsoft YaHei, SF Pro, Noto Color Emoji"
   label_font_face: "Microsoft YaHei"       # 标签字体
   comment_font_face: "Microsoft YaHei"     # 注释字体
-  font_point: 14                           # 全局字体字号
-  label_font_point: 14                     # 标签字体字号，不设定 fallback 到 font_point
-  comment_font_point: 13                   # 注释字体字号，不设定 fallback 到 font_point
+  font_point: 15                           # 全局字体字号
+  label_font_point: 15                     # 标签字体字号，不设定 fallback 到 font_point
+  comment_font_point: 14                   # 注释字体字号，不设定 fallback 到 font_point
 
   inline_preedit: true                     # 行内显示预编辑区：true；false
   preedit_type: composition                # 预编辑区内容：composition（编码）； preview（选中的候选）；preview_all（全部候选）
